@@ -1,4 +1,3 @@
-```ini
 [app]
 title = Jarvis
 package.name = jarvisapp
