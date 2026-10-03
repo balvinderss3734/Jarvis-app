@@ -5,7 +5,7 @@ package.domain = org.balvinder
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python4,kivy==2.3.0
+requirements = python4,kivy==2.3.0,pyjnius==1.8.0
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET, RECORD_AUDIO
