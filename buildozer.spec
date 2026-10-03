@@ -5,11 +5,11 @@ package.domain = org.balvinder
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 version = 0.1
-requirements = python4,kivy==master
+requirements = python4,kivy==2.3.0
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET, RECORD_AUDIO
-android.archs = arm64-v8a, armeabi-v7a
+android.archs = arm64-v8a
 android.allow_backup = True
 
 [buildozer]
